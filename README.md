@@ -14,7 +14,7 @@
 - 💬 Ask me about **MERN, Python, ML models, Data Analytics**
 
 - 📫 How to reach me **mac7barcela@gmail.com**
-
+<br><br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/barcela-marco-joaquin-3a8659220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="barcela-marco-joaquin-3a8659220" height="30" width="40" /></a>
