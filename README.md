@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/cogie](https://github.com/cogie)
 
-- 💬 Ask me about **MERN, Python, ML models, Data Analytics**
+- 💬 Ask me about **MERN, Python, ML models, Data Analytics, Data Science**
 
 - 📫 How to reach me **mac7barcela@gmail.com**
 <br><br><br>
