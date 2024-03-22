@@ -5,13 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kojiee&label=Profile%20views&color=0e75b6&style=flat" alt="kojiee" /> </p>
 
-- 🔭 I’m currently working on Full-stack Web Application for a Real Estate Project **JVBRealEstate**
-
-- 🌱 I’m currently learning **React Native, MERN, Tensorflow, Python, Data Science, Machine Learning**
+- 🌱 I’m currently learning **React Native, MERN, Tensorflow, Python, Data Science, Machine Learning, WebRTC**
 
 - 👨‍💻 All of my projects are available at [https://github.com/cogie](https://github.com/cogie)
 
-- 💬 Ask me about **MERN, Python, ML models, Data Analytics, Data Science**
+- 💬 Ask me about **MERN, Python, ML models, Data Analytics, Data Science, WebRTC**
 
 - 📫 How to reach me **mac7barcela@gmail.com**
 <br><br><br>
